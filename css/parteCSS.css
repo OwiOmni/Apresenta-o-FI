@@ -13,7 +13,7 @@ html{
 }
 body{
     background-image: url (css/img/fundo.jpg);
-    background-position: fixed;
+    background-position: cover;
 }
 
 .titulo{
