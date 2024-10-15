@@ -12,7 +12,8 @@ html{
     height: 100vh;
     
 body{  
-    background-color: pink;
+    background-image: url(css/img/fundo.jpg);
+    background-position: fixed;
   }
     
 }
